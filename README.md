@@ -5,9 +5,13 @@ A new Flutter project.
 ## Packages used
 
   firebase_auth: ^0.20.1  // for authentication
-  cloud_firestore: ^0.16.0+1  
+  
+  cloud_firestore: ^0.16.0+1 
+  
   google_sign_in: ^4.5.9 // for authentication
+  
   font_awesome_flutter: ^9.2.0 //to use google icon in sign in button
+  
   provider: ^6.0.1 // state management
   
   
